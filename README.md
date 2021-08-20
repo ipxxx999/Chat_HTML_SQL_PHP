@@ -3,7 +3,7 @@
 
 Este es un sistema de Chat. 
 
-El Chat en linea tiempo real Para tu sitio web
+El Chat en linea tiempo real Para tu sitio web o Apps
 
 Ver ejemplo http://chat.audiolatinocr.com/vistas/index.php
 
