@@ -1,4 +1,1 @@
-<?php 
-  session_start();
- header("location: vistas/index.php");
-?>
+ver dentro del archivo rar esta todo
