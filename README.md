@@ -1,5 +1,5 @@
 # Chat_HTML_SQL_PHP
- Chat Interativo Modificable Para Tu sitio Web
+ Chat Interativo Modificable Para Tu sitio Web y Apps
 
 Este es un sistema de Chat. 
 
@@ -13,8 +13,23 @@ Ver ejemplo http://chat.audiolatinocr.com/vistas/index.php
 <p><strong>Importante</strong>: </p>
 </blockquote>
 <p>Utilice <em>El Chat</em>, para tu servicio.</p>
-<p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar este chat, Interativo</h2> Puede descargarlo Aqu&#237; <a href="https://github.com/ipxxx999/Chat_HTML_SQL_PHP/archive/refs/heads/main.zip" target="_blank">Downloader</a> exclusivo:</p>
-<p style="text-align: center;"><img src="https://github.com/ipxxx999/Chat_HTML_SQL_PHP/blob/main/1.png" alt="Interfaz de selecci&oacute;n para permitir aplicaciones menos seguras" width="447" height="648" /></p>
+<p><h2 id="permitir-aplicaciones-menos-seguras-">Puede utilizar este chat, Interativo</h2> Puede descargarlo Aqu&#237; <a 
+
+href="https://github.com/ipxxx999/Chat_HTML_SQL_PHP/archive/refs/heads/main.zip" target="_blank">Downloader</a> exclusivo:</p>
+
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/ipxxx999/Chat_HTML_SQL_PHP/main/1.png" alt="Interfaz de selecci&oacute;n para permitir aplicaciones 
+
+menos seguras" width="464" height="531" /></p>
+
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/ipxxx999/Chat_HTML_SQL_PHP/main/2.png" alt="Interfaz de selecci&oacute;n para permitir aplicaciones 
+
+menos seguras" width="456" height="434" /></p>
+
+<p style="text-align: center;"><img src="https://raw.githubusercontent.com/ipxxx999/Chat_HTML_SQL_PHP/main/3.png" alt="Interfaz de selecci&oacute;n para permitir aplicaciones 
+
+menos seguras" width="458" height="409" /></p>
+
+
 </p>
 <p><strong>Cualquier duda</strong>, d&#233;jame un email aqu&#237; o escribe a: <strong>Tutovideo2000@gmail.com</strong></p>
 
@@ -22,7 +37,9 @@ Ver ejemplo http://chat.audiolatinocr.com/vistas/index.php
   <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/pro.min.css">
   <link rel="stylesheet" href="http://copen.atspace.tv/css_js/css/estilos.css">
 <p>
-<div class="channel-username-block"><a href="https://t.me/gurutvo?start=auth-es-5235733993052020" target="_blank" rel="noindex nofollow noopener noreferrer"><div class="fab fa-telegram icon3"> Telegram</a><div class="price-block">
+<div class="channel-username-block"><a href="https://t.me/gurutvo?start=auth-es-5235733993052020" target="_blank" rel="noindex nofollow noopener noreferrer"><div class="fab fa-
+
+telegram icon3"> Telegram</a><div class="price-block">
 <p>
 
 </div>
